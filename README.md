@@ -1,5 +1,3 @@
-![header](https://capsulerender.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Gyutae%20Kim&fontSize=32)
-
 # Introduce
 
-- I am Gyutae Kim, a student studying computer science at the SeoulTech.
+- I am Gyutae Kim, a student studying _computer science_ at the **SeoulTech**.
